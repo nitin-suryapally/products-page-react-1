@@ -16,7 +16,7 @@ function App() {
     <div>
       <Router>
         <Routes>
-          <Route path="/" Component={SharedLayout}>
+          <Route path="https://nitin-suryapally.github.io/products-page-react-1" Component={SharedLayout}>
             <Route index Component={Home} />
             <Route path="about" Component={About} />
             <Route path="products" Component={Products} />
