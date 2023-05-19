@@ -14,7 +14,7 @@ function App() {
   const [user, setUser] = useState(null);
   return (
     <div>
-      <Router basename="https://nitin-suryapally.github.io/products-page-react-1/">
+      <Router >
         <Routes>
           <Route path="/" Component={SharedLayout}>
             <Route index Component={Home} />
