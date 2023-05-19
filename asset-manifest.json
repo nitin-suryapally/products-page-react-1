@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/products-page-react-1%20/static/css/main.2aecd3b5.css",
+    "main.js": "/products-page-react-1%20/static/js/main.ce0cfbaa.js",
+    "index.html": "/products-page-react-1%20/index.html",
+    "main.2aecd3b5.css.map": "/products-page-react-1%20/static/css/main.2aecd3b5.css.map",
+    "main.ce0cfbaa.js.map": "/products-page-react-1%20/static/js/main.ce0cfbaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aecd3b5.css",
+    "static/js/main.ce0cfbaa.js"
+  ]
+}
