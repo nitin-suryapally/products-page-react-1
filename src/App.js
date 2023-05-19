@@ -14,9 +14,9 @@ function App() {
   const [user, setUser] = useState(null);
   return (
     <div>
-      <Router>
+      <Router basename="https://nitin-suryapally.github.io/products-page-react-1">
         <Routes>
-          <Route path="https://nitin-suryapally.github.io/products-page-react-1" Component={SharedLayout}>
+          <Route path="/" Component={SharedLayout}>
             <Route index Component={Home} />
             <Route path="about" Component={About} />
             <Route path="products" Component={Products} />
